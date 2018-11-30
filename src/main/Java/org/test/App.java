@@ -1,4 +1,4 @@
-package com.test;
+package org.test;
 
 public class App {
 
